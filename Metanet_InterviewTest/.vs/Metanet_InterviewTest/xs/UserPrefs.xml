@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{22FC1E67-6872-4FE6-AE5A-FC0FADBD296F}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Metanet_InterviewTest" expanded="True">
+            <Node name="Metanet_InterviewTest" expanded="True">
+              <Node name="Driver" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Tests" expanded="True">
+                <Node name="TestProductPage.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>TxtUsername</Value>
+          <Value>driver</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Metanet_InterviewTest" expanded="True">
+            <Node name="Metanet_InterviewTest" expanded="True">
+              <Node name="Metanet_InterviewTest.Tests" expanded="True">
+                <Node name="TestCase" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Metanet__InterviewTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

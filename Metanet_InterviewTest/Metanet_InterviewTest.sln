@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metanet_InterviewTest", "Metanet_InterviewTest\Metanet_InterviewTest.csproj", "{22FC1E67-6872-4FE6-AE5A-FC0FADBD296F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22FC1E67-6872-4FE6-AE5A-FC0FADBD296F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FC1E67-6872-4FE6-AE5A-FC0FADBD296F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FC1E67-6872-4FE6-AE5A-FC0FADBD296F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FC1E67-6872-4FE6-AE5A-FC0FADBD296F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8F6D2C-4D26-47B0-AB56-BE7BF072375A}
+	EndGlobalSection
+EndGlobal
