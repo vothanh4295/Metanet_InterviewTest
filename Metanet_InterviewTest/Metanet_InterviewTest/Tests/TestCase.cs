@@ -11,8 +11,9 @@ namespace Metanet_InterviewTest.Tests
 
         public TestCase()
         {
-            string dir = "/Users/Document/Interview/Metanet_InterviewTest/Metanet_InterviewTest/Metanet_InterviewTest/Driver";
+            //string dir = "/Users/Document/Interview/Metanet_InterviewTest/Metanet_InterviewTest/Metanet_InterviewTest/Driver";
             //driver = new ChromeDriver(@"\..\..\..\Driver");
+            string dir = Environment.CurrentDirectory + @"/../../../Driver";
             driver = new ChromeDriver(dir);
         }
 

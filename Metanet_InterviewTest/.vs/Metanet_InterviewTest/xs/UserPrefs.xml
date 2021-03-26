@@ -1,5 +1,8 @@
 ﻿<Properties StartupConfiguration="{22FC1E67-6872-4FE6-AE5A-FC0FADBD296F}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Metanet_InterviewTest/Tests/TestCase.cs">
+    <Files>
+      <File FileName="Metanet_InterviewTest/Tests/TestCase.cs" Line="16" Column="54" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -8,7 +11,7 @@
               <Node name="Driver" expanded="True" />
               <Node name="Pages" expanded="True" />
               <Node name="Tests" expanded="True">
-                <Node name="TestProductPage.cs" selected="True" />
+                <Node name="TestCase.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -18,6 +21,7 @@
         <State>
           <Value>TxtUsername</Value>
           <Value>driver</Value>
+          <Value>dir</Value>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
@@ -25,7 +29,9 @@
           <Node name="Metanet_InterviewTest" expanded="True">
             <Node name="Metanet_InterviewTest" expanded="True">
               <Node name="Metanet_InterviewTest.Tests" expanded="True">
-                <Node name="TestCase" expanded="True" selected="True" />
+                <Node name="TestCase" expanded="True">
+                  <Node name="VerifyHowManyProduct(expected: 6)" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
